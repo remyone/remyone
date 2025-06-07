@@ -1,4 +1,4 @@
-![👋 Hi, my name is 0xr3my](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+![👋 Hi, my name is 0xR3MY](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=remy&label=Profile%20views&color=0e75b6&style=flat)
 
