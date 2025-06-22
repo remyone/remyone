@@ -6,7 +6,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is remy
+        👋 Hi, my name is 0xR3MY, I'm 14yo
       </h1>
     </summary>
   </ul>
