@@ -15,7 +15,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/remyone" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="oneremy76@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 I'm a developer and super basic reverse engineer, love coding.</h3>**
+ **<h3 align="left">🚀 I'm a system developer and super basic reverse engineer, really passionate about coding.</h3>**
 
  **<h3 align="left">Skills</h3>**
 
