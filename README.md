@@ -1,7 +1,7 @@
 ![⚡0xR3MY](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
----
+
 # ⚡0xR3MY
----
+
 **`Digital Craftsman (Developer)`**
 
 🚀 I'm a system developer buidling my version of the digital world one step at a time. All projects are build from the scratch, from planning all the way to solving real-life problems with code. 
@@ -12,7 +12,7 @@
 
 ---
 
-### 🧰 Language and Tools
+### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
