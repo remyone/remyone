@@ -7,6 +7,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="GIF">
 <p/>
 🚀 I'm a student who is interested in C/C++ and low level stuff. I'm trying to build my version of the digital world one step at a time. 
+
 ---
 
 ### 🧰 Languages and Tools
